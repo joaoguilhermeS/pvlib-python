@@ -5,7 +5,7 @@ v0.9.3 (TBD)
 
 Deprecations
 ~~~~~~~~~~~~
-
+Removing the kwarg *closed* from the dataframes in the examples files because it is deprecated for pandas >=1.4.0. 
 
 Enhancements
 ~~~~~~~~~~~~
@@ -33,4 +33,5 @@ Requirements
 
 Contributors
 ~~~~~~~~~~~~
+* João Guilherme 
 
